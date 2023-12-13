@@ -1,1 +1,3 @@
-# Revoada (Plataforma para fomento de rede de Iniciativas Culturais)
+# Revoada (Plataforma para fomento de Rede de Iniciativas Culturais)
+
+É preciso uma instalação do Wordpress
