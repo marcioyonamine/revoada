@@ -1,0 +1,179 @@
+Entidades
+
+Agente / Coletivo
+	Nome
+	Área de atuação
+	Tags
+	Funções
+	Descrição Curta
+	Site
+	Redes Sociais
+	Nome Social
+	Nome Completo
+
+	CPF
+	CNPJ MEI
+	Email Privado
+	Email Pública
+	Telefone 1
+	Telefone 2
+	
+	Localização
+		CEP
+		Logradouro
+		Complemento
+		Bairro
+		Munícipio
+		Estado
+	
+	Dados Pessoais Sensíveis
+		Comunidades tradicionais
+		Outras
+		Pessoa com deficiência
+		Escolaridade
+		Data de Nascimento
+		Gênero
+		Oriente Sexual
+		Agente itinerante
+		Raça/Cor
+	
+	PJ
+		Nome Fantasia
+		CNPJ
+		Data de Fundação
+	
+
+Espaço
+	Nome
+	Tipo
+	Área de atuação
+	Tags
+	Descrição
+	Site
+	Redes Sociais
+	Descrição
+	
+	Acessibilidade
+	Acessibilidade física
+	Capacidade
+	Horário de funcionamento
+	Email Público
+	Telefone Público
+	Telefone Privado 1
+	Telefone Privado 2
+	
+	Localização
+		CEP
+		Logradouro
+		Número
+		Complemento
+		Bairro
+		Munícipio
+		Estado
+		Descrição do uso do espaço
+
+	Administradores
+	Agentes
+
+	Downloads
+	Links
+	Galera
+	Vídeo
+	
+Eventos
+	Nome
+	Linguagens
+	Tags
+	Descrição curta
+	Site
+	Redes Sociais
+	Descrição
+	
+	Total de público
+	Inscrições
+	Classificação etária
+	Mais informações (tel)
+	
+	Acessibilidade
+		Libras
+		Audio Descrição
+	
+	Administradores
+	Download
+	Links
+	
+
+Ocorrência / Evento
+	Espaço
+	Horário inicial
+	Duração
+	Horário final
+	Frequência (uma vez, todos os dias, semanal)
+	Data inicial
+	Descrição legível
+	Preço
+	
+
+Projeto
+	Nome
+	Tipo
+	Projeto Pai
+	Tags
+	Descrição Curta
+	Redes Sociais
+	
+	Inscrições abertas
+	Descrição
+	
+	Administradores
+	Downloads
+	Links
+
+Serviço
+	Nome
+	Tipo de serviço
+	Descrição do serviço
+	Condições para o serviço
+	Contato
+
+
+Infraestrutura
+	Nome
+	Tipo de infraestrutura
+	Descrição da infraestrutura
+	Condições para a infraestrutura
+	Contato
+	
+Contato
+	Nome
+	Whatsapp
+	Redes Sociais
+	Site
+	Email
+	
+Chamadas/Solicitações/Classificados/Doação
+	Titulo
+	Autor
+	Tipo
+	Data de publicação
+	Data de validade
+	
+Quiz/Pools/Votações
+	Titulo
+	Descrição
+	Opções para votacao
+	Data de publicação
+	Data de validade
+
+Referências / Bibliografia
+	Titulo
+	Descricao
+	Tipo
+	
+
+
+
+Relatórios
+
+Público/Bilhetagem
+

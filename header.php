@@ -11,9 +11,6 @@ endif;
 //Carrega os arquivos de funções
 require "inc/function.php";
 
-
-
-
 ?>
 <!DOCTYPE html>
 <html lang="pt_br">
